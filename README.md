@@ -26,7 +26,7 @@
     ```
 5. change the `config.yaml` file to change the hyperparameters
     ```yaml
-    --test_only: False # if you want to test the model
+    --test_only: True # if you want to test the model only
     --enable_plda: True # if you want to use PLDA
     --pca_components: 140 # number of PCA components
    ```
