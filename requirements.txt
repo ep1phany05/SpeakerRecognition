@@ -1,0 +1,15 @@
+numpy
+scipy
+spectrum
+librosa
+speechbrain
+tqdm
+python_speech_features
+soundfile
+torch
+torchvision
+torchaudio
+pandas
+pyarrow
+hyperpyyaml
+scikit-learn
